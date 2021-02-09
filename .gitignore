@@ -1,0 +1,8 @@
+# Pipenv
+Pipfile.lock
+
+# Folders
+.idea/
+
+# DB
+db.sqlite3
