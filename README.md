@@ -4,6 +4,7 @@ Microservicio creado en DJANGO (Django Rest Framework) que permite consultar los
 
 ## Arquitectura
 
+![Arquitectura](arquitectura.png)
 
 ## Instalacion
 
@@ -152,4 +153,3 @@ Example:
    }
 }
 ```
-
