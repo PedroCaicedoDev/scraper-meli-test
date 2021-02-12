@@ -17,7 +17,7 @@ Clone el proyecto, ubiquese dentro de la carpeta use el siguiente comando para i
 *Nota:* Debe instalar [pipenv](https://pypi.org/project/pipenv/) para ejecutar la instalacion.
 ## Use
 
-El microservio provee un API Rest, por ende se debe levantar un servicio web. Ustes puede levantar un servidor web rapidamente usando los siguientes comandos: 
+El microservio provee un API Rest, por ende se debe levantar un servicio web. Usted puede levantar un servidor web rapidamente usando los siguientes comandos: 
 
 ```bash
 1.- Cargar el entorno virtual:
